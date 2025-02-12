@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Akhil-Jonnalagadda
+- 👀 I’m interested in Java Full-Stack Development and Web Development. I'm passionate about building robust and user-friendly web applications. I enjoy the challenge of working with both front-end and back-end technologies to create complete solutions.
+- 🌱 I’m currently learning or improving my skills in Java, Spring Boot, React, and various database technologies (like MySQL and MongoDB). I'm also exploring cloud platforms like AWS and Azure to understand how to deploy and scale web applications.
+- 💞️ I’m looking to collaborate on projects that involve Java Full-Stack Development, especially web applications. I'm open to contributing to open-source projects, working on team projects, or even collaborating on personal projects to expand my skillset and learn from others. I'm particularly interested in projects that focus on clean code, good design principles, and user experience.
+- 📫 How to reach me: You can connect with me on LinkedIn: https://www.linkedin.com/in/akhiljonnalagadda3/ or email me at akhiljonnalagadda851@gmail.com.
+- 😄 Pronouns: He/him 
+- ⚡ Fun fact: I love trying new coffee blends and exploring different programming languages in my free time!
