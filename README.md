@@ -1,5 +1,5 @@
 Hi, I’m @Akhil-Jonnalagadda 👋
-👀 I’m passionate about Java Full-Stack Development & Web Development. I love building user-friendly and efficient web applications.
+👀 I’m passionate about Full-Stack Development & Web Development. I love building user-friendly and efficient web applications.
 🌱 Currently Learning: Java, Spring Boot, React, MySQL, MongoDB, and exploring cloud platforms like GCP.
 💡 Looking to Collaborate On: Java full-stack projects, open-source contributions, and web applications with a focus on clean code & great user experience.
 📫 Connect with me:
