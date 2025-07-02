@@ -47,9 +47,9 @@
 
 ---
 ### 📫 Let’s Connect
-> 📧[EMAIL] akhiljonnalagadda851@gmail.com  
+> 📧EMAIL:~ akhiljonnalagadda851@gmail.com  
 > 💼 [LinkedIn](https://www.linkedin.com/in/akhil85/)
-> 💻 [GitHub][https://github.com/Akhil-Jonnalagadda)
+> 
 
 ---
 <p align="center">
