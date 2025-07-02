@@ -8,10 +8,13 @@
 ---
 ### 🚀 Who Am I?
 
-- 🎓 Master's in Computer Science @ UMass Lowell  
-- 🔐 Passionate about building secure-by-design web platforms  
-- ☁️ Focused on cloud-native development, especially on **Google Cloud Platform (GCP)**  
-- 🧠 Learning never stops: DevOps, Security, and System Design are my playgrounds
+~🎓 Computer Science Graduate (Master’s, University of Massachusetts  Lowell)
+
+~🔐 Security-minded Full-Stack Developer with a focus on encrypted systems and privacy-first applications
+
+~☁️ Passionate about building cloud-native solutions using Google Cloud Platform
+
+~💬 Strong believer in software that is scalable, secure, and genuinely helpful to people
 
 ---
 ### 🧰 What I Build
