@@ -44,15 +44,15 @@
 
 ---
 ### 📫 Let’s Connect
-> 📧 akhiljonnalagadda851@gmail.com  
+> 📧[EMAIL] akhiljonnalagadda851@gmail.com  
 > 💼 [LinkedIn](https://www.linkedin.com/in/akhil85/)
-> 💻 [https://github.com/Akhil-Jonnalagadda)
+> 💻 [GitHub][https://github.com/Akhil-Jonnalagadda)
 
 ---
 <p align="center">
   <em>“Code that respects privacy, scales in the cloud, and feels human to use.”</em><br>
   <strong>Let’s build that future together 🚀</strong>
 </p>
-💡 Favorite Quote
+<P>💡 Favorite Quote </P>
 "It always seems impossible until it’s done."
 — Nelson Mandela
