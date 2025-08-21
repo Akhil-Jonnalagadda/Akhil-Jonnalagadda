@@ -50,7 +50,7 @@
 > 📧EMAIL:~ akhiljonnalagadda851@gmail.com  
 > 💼 [LinkedIn](https://www.linkedin.com/in/akhil85/)
 > 🌐 Portfolio: ~ https://my-portfolio-tawny-two-39.vercel.app/index.html
-
+---
 ---
 <p align="center">
   <em>“Code that respects privacy, scales in the cloud, and feels human to use.”</em><br>
