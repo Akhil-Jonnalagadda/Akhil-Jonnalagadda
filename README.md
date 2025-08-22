@@ -52,6 +52,35 @@
 > 🌐 Portfolio: ~ https://my-portfolio-tawny-two-39.vercel.app/index.html
 ---
 ---
+## Ashish Pratap Singh's GitHub Stats
+
+| ⭐ Total Stars Earned | 🕒 Total Commits (2025) | 🔀 Total PRs | ❗ Total Issues | 🖥️ Contributed to (last year) |
+|----------------------|------------------------|-------------|----------------|-------------------------------|
+| 65.5k                | 286                    | 6           | 1              | 1                             |
+
+### Most Used Languages
+
+```
+Jupyter Notebook █████████████████████ 23.05%
+Python           ████████████████      21.72%
+C++              ██████████            14.87%
+Java             █████████             13.84%
+C#               █████                 9.94%
+Go               ██                    5.37%
+PHP              ██                    4.65%
+CSS              █                     3.13%
+HTML             ░                     1.74%
+JavaScript       ░                     1.69%
+```
+---
+
+## 📊 My GitHub Stats
+
+![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhiljonnalagadda&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhiljonnalagadda&layout=compact&theme=dark)
+
+---
+
 <p align="center">
   <em>“Code that respects privacy, scales in the cloud, and feels human to use.”</em><br>
   <strong>Let’s build that future together 🚀</strong>
