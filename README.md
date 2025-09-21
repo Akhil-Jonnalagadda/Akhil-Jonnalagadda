@@ -49,7 +49,7 @@
 ### 📫 Let’s Connect
 > 📧EMAIL:~ akhiljonnalagadda851@gmail.com  
 > 💼 [LinkedIn](https://www.linkedin.com/in/akhil85/)
-> 🌐 Portfolio: ~ https://my-portfolio-tawny-two-39.vercel.app/index.html
+
 ---
 
 "It always seems impossible until it’s done."
