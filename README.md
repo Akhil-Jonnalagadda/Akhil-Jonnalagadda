@@ -2,7 +2,12 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on<br>Building Java-based backend services, improving system design skills, and exploring how AI can enhance testing, automation, and data-driven applications.<br><br>👯 I’m looking to collaborate on<br>Java backend projects, microservices, API development, data engineering tasks, and real-world applications that solve meaningful problems.<br><br>🤝 I’m looking for help with<br>Best practices in scalable system design, cloud deployment, and applying AI effectively in Java development.<br><br>🌱 I’m currently learning<br>Advanced Java, Spring Boot, SQL optimization, Apache Kafka, cloud platforms, and AI-assisted development workflows.<br><br>💬 Ask me about<br>Java, backend development, databases, interview preparation, data pipelines, and writing clean, testable code.<br><br>⚡ Fun fact<br>I enjoy breaking down complex technical concepts into simple explanations and sharing them through daily LinkedIn posts.
+## 👋 About Me
+
+I’m a Java Backend Developer passionate about building scalable backend systems and solving real-world problems using clean architecture and data-driven approaches.
+
+I focus on backend development, system design, and exploring how AI can enhance testing, automation, and modern software workflows.
+
 
 
 ## 🌐 Socials:
