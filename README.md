@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&section=header&color=0:1E3A8A,50:3B82F6,100:60A5FA&text=Hi,%20I'm%20Akhil%20👋&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Java%20%7C%20Cloud%20%7C%20AI&descAlignY=55&animation=fadeIn&fontColor=FFFFFF" />
+<img width="120%" src="https://capsule-render.vercel.app/api?type=waving&height=320&section=header&color=0:1E3A8A,50:3B82F6,100:60A5FA&text=Hi,%20I'm%20Akhil%20👋&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Java%20%7C%20Cloud%20%7C%20AI&descAlignY=55&animation=fadeIn&fontColor=FFFFFF" />
 
 <!-- <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Java+Backend+Systems;Exploring+AI+in+Testing+and+Automation;Designing+Reliable+Data+Pipelines" /> -->
 <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=950&lines=Full-Stack+Developer+with+Strong+Backend+Focus;Building+Scalable+Java+and+Cloud-Native+Applications;Exploring+AI+in+Modern+Software+Development" />
