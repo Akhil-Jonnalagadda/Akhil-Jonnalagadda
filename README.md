@@ -13,6 +13,18 @@ I’m a Java Backend Developer passionate about building scalable backend system
 
 I focus on backend development, system design, and exploring how AI can enhance testing, automation, and modern software workflows.
 
+⚙️ Backend (Core Strength)
+<p> <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,fastapi,graphql&theme=dark" /> </p>
+🎨 Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,typescript,tailwind,html,css&theme=dark" /> </p>
+🗄️ Databases & Data
+<p> <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" /> </p>
+☁️ Cloud & DevOps
+<p> <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions&theme=dark" /> </p>
+📡 Messaging & Streaming
+<p> <img src="https://skillicons.dev/icons?i=kafka,rabbitmq&theme=dark" /> </p>
+🧪 Testing & Quality
+<p> <img src="https://skillicons.dev/icons?i=jest,cypress,selenium&theme=dark" /> </p>
 
 
 ## 🌐 Socials:
