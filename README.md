@@ -7,9 +7,6 @@
 
 
 # 💫 About Me:
-## 👋 About Me
-## 👋 About Me
-
 I’m a Full-Stack Developer with a strong backend foundation, passionate about building scalable, secure, and high-performance applications.
 
 I work across backend systems, APIs, databases, cloud platforms, and modern frontends—while exploring how AI can improve testing, automation, and developer productivity.
