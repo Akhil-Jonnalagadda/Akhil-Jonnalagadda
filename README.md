@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f2027,50:203a43,100:2c5364&text=Hi,%20I'm%20Akhil%20👋&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Java%20%7C%20Cloud%20%7C%20AI&descAlignY=55&animation=fadeIn" />
+
 <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Java+Backend+Systems;Exploring+AI+in+Testing+and+Automation;Designing+Reliable+Data+Pipelines" />
 
 
